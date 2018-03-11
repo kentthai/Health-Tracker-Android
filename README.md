@@ -1,4 +1,4 @@
-# Android-Simple-Bluetooth-Example
+# Health-Tracker-Android
 Simple Health Tracker Android Application that works with an Arduino project.
 
 This is a simple health tracker app that tracks the number of steps someone carrying the arduino device has taken. There are buttons to toggle ON/OFF the bluetooth radio, view connected devices, and to discover new bluetooth enabled devices.
